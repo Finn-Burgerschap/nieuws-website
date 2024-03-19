@@ -6,6 +6,10 @@ module.exports = {
             fontFamily: {
                 sans: ['Inter var', ...defaultTheme.fontFamily.sans],
             },
+            colors: {
+                gray: '#f2f2f2',
+                border: '#a5a5a5',
+            },
         },
     },
     variants: {

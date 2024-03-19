@@ -34,7 +34,7 @@ php artisan key:generate
 5. Run the migrations
 
 ```bash
-php artisan migrate
+php artisan migrate --seed
 ```
 
 6. Build the assets
